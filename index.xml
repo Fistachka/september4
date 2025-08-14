@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september4</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="zabava"/>
   <readme>
     <ru>75ac91641a31333629f92718ca18b0616d7bfe1eec4c2251f244f410531637c9</ru>
@@ -104,9 +104,9 @@
       <note number="1" values="3" ticks="49" durationTicks="27" ppq="96" velocity="0.843"/>
       <note number="2" values="2" ticks="76" durationTicks="22" ppq="96" velocity="0.906"/>
       <note number="3" values="3" ticks="100" durationTicks="24" ppq="96" velocity="0.827"/>
-      <note number="4" values="4" ticks="155" durationTicks="28" ppq="96" velocity="0.858"/>
-      <note number="5" values="3" ticks="180" durationTicks="25" ppq="96" velocity="0.906"/>
-      <note number="6" values="2" ticks="208" durationTicks="46" ppq="96" velocity="0.835"/>
+      <note number="4" values="4" ticks="138" durationTicks="40" ppq="96" velocity="0.858"/>
+      <note number="5" values="3" ticks="179" durationTicks="21" ppq="96" velocity="0.906"/>
+      <note number="6" values="2" ticks="201" durationTicks="56" ppq="96" velocity="0.835"/>
       <note number="7" values="6" ticks="281" durationTicks="40" ppq="96" velocity="0.835"/>
       <note number="8" values="5" ticks="321" durationTicks="62" ppq="96" velocity="0.835"/>
     </notes>
