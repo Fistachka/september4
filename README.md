@@ -33,4 +33,6 @@ No pochemu, no pochemu rasstat'sya vsyo zhe nam prishlos'?
 Ved' bylo vsyo u nas vser'yoz vtorogo sentyabrya
 
 Previous lesson: stolbitsa.com/fistachka/september<br><br>
+![3 september](https://github.com/user-attachments/assets/267423d9-5429-438b-a719-3a8e9b6a1002)
+![3 september](https://github.com/user-attachments/assets/6a9a239e-2971-4ad0-8127-0a6585805126)
 
